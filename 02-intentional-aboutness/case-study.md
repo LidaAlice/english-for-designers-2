@@ -1,6 +1,6 @@
 # Case Study
 
-![Bollywood Spot logo on a white background](img/bollywood-spot-logo-white-bg-1280w.png)
+![Bollywood Spot logo on a white background.](img/bollywood-spot-logo-white-bg-1280w.png)
 
 <video controls src="video/bollywood-spot.mp4" width="100%">
 
